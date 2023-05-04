@@ -1,4 +1,4 @@
 import runHome from "./home";
-import "./style.css"
+import "./style.css";
 
-runHome()
+runHome();
